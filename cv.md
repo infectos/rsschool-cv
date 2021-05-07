@@ -4,7 +4,7 @@
 ## Experience
 ### Web-developer
 September 2020 - Present
-* maintained clients web-sites
+* maintained clients websites
 * implemented new features both on server and front sides
 * managed site content
 
